@@ -1,3 +1,2 @@
-Project Curriculum Vitae (CV)
-
-Dibuat untuk tugas pertama sekaligus belajar
+Project Curriculum Vitae (Roadmap)
+https://roadmap.sh/projects/single-page-cv
